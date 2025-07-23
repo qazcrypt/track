@@ -22,7 +22,7 @@ CONFIG = {
     # Общие настройки
     "telegram_bot_token": "7569935826:AAFlO8QYdC4la1kk2JynlR64V3IH0QxphZI",
     "telegram_chat_ids": ["8018300484", "7858883785", '8133353887'],
-    "check_interval": 30
+    "check_interval": 30,
     
     # API для получения цены VAULTA
     "vaulta_price_api": "https://api.coingecko.com/api/v3/simple/price?ids=vaulta&vs_currencies=usd"
